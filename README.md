@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Candoni-Bologona
-- 👀 I’m interested in Blockchain adoption, gaming, and finding a career!
-- 🌱 I’m currently learning Solidity and Moralis
-- 💞️ I’m looking to collaborate on an arcade on the blockchain!
+- 👀 I’m interested in learning anything and everything!
+- 🌱 I’m currently learning Python!
+- 💞️ I’m looking to collaborate on anything! need experience and trying to find worthwhile projects to learn by experience :)
 - 📫 How to reach me maxwell.goldstein@uconn.edu ! email me if someone finds this 
 
 <!---
